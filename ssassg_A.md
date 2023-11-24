@@ -1,4 +1,4 @@
-# Bài tập Samsung, mục A
+# Bài tập Samsung - Mục A
 
 ## Bài 1
 
